@@ -30,13 +30,11 @@ app.get('/', (req, res) => {
     return res.json({
         Server: "Nginx-Server",
         Health: "Good",
-        sum: s
+        sum: s,
+        container: process.env.HOSTNAME
     });
 });
 
 app.listen(PORT, () => {
     logger.info(`Server started on ${PORT}`);
 });
-
-
-abc =
