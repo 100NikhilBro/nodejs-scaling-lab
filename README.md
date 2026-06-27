@@ -464,3 +464,5 @@ npx eslint .
 This repository was created to explore how backend systems behave under load and how common Node.js infrastructure tools work together.
 
 The focus was on experimentation, profiling, scaling, observability, and backend engineering workflows rather than building a feature-heavy application.
+
+Maintained by Nikhil Gupta .
