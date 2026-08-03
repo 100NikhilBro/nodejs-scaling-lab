@@ -4,6 +4,10 @@ Experimenting with Node.js performance, profiling, clustering, Docker, NGINX rev
 
 ---
 
+https://github.com/user-attachments/assets/1f4c2c18-6ba8-47a6-9773-c2a934c5ac8b
+
+---
+
 # Overview
 
 This repository focuses on understanding how Node.js applications behave under traffic and how backend infrastructure tools work together in real-world systems.
